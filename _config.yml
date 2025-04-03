@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Boran Zhang"
-description              : "Undergraduate Student at Harbin Engineering University"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "I am currently pursuing my undergraduate studies at Harbin Engineering University, and I am deeply fascinated by scientific research and the philosophy of world models."
+repository               : "Chenqingsu1/Chenqingsu1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Boran Zhang"
   avatar           : "images/giphy.gif"
-  bio              : "Undergraduate Student at Harbin Engineering University"
+  bio              : "Harbin Engineering University"
   location         : "Harbin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Boran Zhang"
-  email            : "1421837100@qq.com"
+  email            : "chenqingsui1@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Chenqingsu1"
   google_plus      :
   keybase          :
   instagram        :

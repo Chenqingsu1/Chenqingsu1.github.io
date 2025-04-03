@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhang Boran, I am an undergraduate student majoring in Computer Science at Harbin Engineering University. I am a passionate "seeker" of computer science and technology. Welcome to my personal homepage to learn about my experiences 😎.
+Hi! I'm **Zhang Boran**, an undergraduate student majoring in Software Engineering at **Harbin Engineering University** (expected graduation: 2026).  
+My academic interests center around **autonomous driving**, **embodied intelligence**, and **multimodal perception**.
 
-My research interests include computer vision and artificial intelligence models. I have not yet published any papers in top-tier conferences such as CVPR or IEEE.
-🥇🥇🥇 
+I have hands-on experience in areas such as **mapless trajectory prediction**, **dexterous hand grasping with monocular point clouds**, and **multimodal learning**.  
+I actively participate in academic competitions and research-driven engineering projects, and aim to build intelligent systems that understand and act like humans.
+
+Welcome to my homepage! 😊
+
 
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -30,41 +34,73 @@ My research interests include computer vision and artificial intelligence models
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Zhang Boran won the second prize in the May Fourth Cup competition at Harbin Engineering University. 
-- *2023.10*: &nbsp;🎉🎉 Zhang Boran was awarded the first prize in the National College Student Mathematical Modeling Competition.. 
-- aaa
+- *2025.02*: &nbsp;🎉🎉 We have submitted our work to IROS 2025 for review.
+- *2024.11*: &nbsp;🎉🎉 I was awarded the National Scholarship (top 0.45%).
+- *2024.07*: &nbsp;🎉🎉 I was awarded the Second Prize at the National Computer Design Competition. 
+- *2023.10*: &nbsp;🎉🎉 I was awarded the first prize in the National College Student Mathematical Modeling Competition.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- 这是我们论文的标题 -->
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
+[Delving into Mapping Uncertainty for Mapless Trajectory Prediction](images/paper1.pdf)
 
 <!-- 论文作者 -->
-<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
+**Boran Zhang**, Zongzheng Zhang, Guantian Zheng
 
 <!-- 论文简介 -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**Project**](https://github.com/Ethan-Zheng136/Map-Uncertainty-for-Trajectory-Prediction) 
+- This paper addresses the problem of mapless trajectory prediction in autonomous driving by proposing a covariance-based map uncertainty modeling approach, along with a proprioceptive scenario gating mechanism driven by the ego vehicle's kinematic state, which adaptively integrates uncertainty information. The method significantly improves prediction accuracy and robustness across diverse driving scenarios, achieving up to a 23.6% performance gain on the nuScenes dataset compared to existing approaches.
 </div>
 </div>
 
 <!-- 论文代码 -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 # 🎖 Honors and Awards
-- *2023.10* Zhang Boran was awarded the first prize in the National College Student Mathematical Modeling Competition. 
-- *2023.07* Zhang Boran won the second prize in the May Fourth Cup competition at Harbin Engineering University.. 
-- *2023.12* Zhang Boran was awarded the title of "Outstanding Student" for the first academic year.
 
-# 📖 Educations
-- *2022.06 - 2024.04 (now)*, Undergraduate Student at Harbin Engineering University. 
-- *2026.09 - 2030.06*, Master's student at Tsinghua University. 
+- *2024.11*: 🎓 **National Scholarship** (Top 0.24%)  
+- *2024.11*: 🥇 **First-Class Scholarship** (Top 4.9%)  
+- *2024.07*: 💻 **National Computer Design Competition** – Second Prize  
+- *2024.07*: 🌐 **China “Internet+” Main Track** – Provincial Silver Award  
+- *2024.09*: 🌐 **China “Internet+” Industry Track** – 2× Provincial Silver, 2× Provincial Bronze  
+- *2024.06*: 🏅 **Excellent Student Cadre Award**  
+- *2023.12*: 🌟 **Merit Student** (Top 6.2%)  
+- *2023.12*: 🏅 **Outstanding Youth League Member**  
+- *2023.11*: 🥇 **First-Class Scholarship**  
+- *2023.07*: 🧮 **National College Mathematical Modeling Competition** – Provincial First Prize  
+- *2023.09*: 🧮 **Northeast Mathematical Modeling Contest** – Second Prize  
+- *2023–2024*: 👥 Deputy Director – Student Union & Science Association  
+- *2024–Present*: 🎤 Class Representative & Member of Student Representative Assembly  
+- 🏫 6+ University-Level Awards
 
-# 💬 crazy pentakill 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://www.bilibili.com/video/BV1qa4y1n7zU/?spm_id_from=333.999.0.0&vd_source=649a6263d58e8f6e316daf124701fb41)
+---
+
+# 📖 Education
+
+- *2022.09 – 2026.06 (Expected)*  
+  **Harbin Engineering University**, B.Sc. in Software Engineering  
+  📍 Harbin, Heilongjiang, China  
+  - GPA Ranking: **Top 5.4%** (12/222)  
+  - Comprehensive Evaluation: **Top 0.45%** (1/222)  
+  - Key Courses: Data Structures (98), OOP (100), Linear Algebra (98), Mathematical Analysis (97)
+
+---
 
 # 💻 Internships
-- *2022.05 - 2023.02*, [Lorem](https://github.com/), China.
+
+- *2024.07 – Present*  
+  **Algorithm Intern**, Institute for AI Industry Research (AIR), Tsinghua University  
+  📍 Beijing, China  
+  - *Delving into Mapping Uncertainty for Mapless Trajectory Prediction* (IROS 2025 submission)  
+  - *Dexterous Hand Grasping Based on Monocular Point Cloud Completion*  
+  - *OpenLaneV3*: Temporal traffic-light-driven lane dataset design
+
+---
+
+# 🌟 Personal Highlights
+
+- *2021.03*: 🏐 **Crazy volleyball** – [\[video coming soon,this is my brother😂\]](https://www.bilibili.com/video/BV1qa4y1n7zU)  
+- 🏆 Champion of the **Changsha City Volleyball League**, invited to join **Hunan Provincial Team**
