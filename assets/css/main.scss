@@ -40,6 +40,17 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+:root {
+    --accent-eccv: #d9480f;
+    --accent-eccv-soft: #fff1e6;
+    --accent-iros: #0f766e;
+    --accent-iros-soft: #e6fffb;
+    --accent-role: #7c2d12;
+    --accent-role-soft: #fef3c7;
+    --text-strong: #14213d;
+    --text-muted: #4a5568;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -61,10 +72,40 @@
             object-fit: cover;
         }
     }
+
+    .paper-box-placeholder {
+        align-items: center;
+        background: linear-gradient(135deg, #17324d 0%, #c84c09 100%);
+        box-shadow: 3px 3px 6px #888;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        gap: .5em;
+        justify-content: center;
+        min-height: 220px;
+        max-width: 400px;
+        padding: 1.5em;
+        text-align: center;
+        width: 100%;
+
+        strong {
+            font-size: 2.4em;
+            line-height: 1;
+        }
+
+        span {
+            font-size: .95em;
+            line-height: 1.35;
+        }
+    }
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
+
+        p:first-child {
+            margin-top: 0;
+        }
     }
     
     @include breakpoint($medium) {
@@ -87,6 +128,67 @@
 
 }
 
+.paper-title-display {
+    color: var(--text-strong);
+    display: block;
+    font-size: 1.22em;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.35;
+    margin-bottom: 0.35em;
+}
+
+.paper-title-inline {
+    color: var(--text-strong);
+    font-weight: 700;
+}
+
+.venue-chip,
+.role-chip,
+.status-chip {
+    border-radius: 999px;
+    display: inline-block;
+    font-size: 0.82em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1;
+    padding: 0.38rem 0.7rem;
+    vertical-align: middle;
+}
+
+.venue-chip--eccv {
+    background: var(--accent-eccv-soft);
+    color: var(--accent-eccv);
+}
+
+.venue-chip--iros {
+    background: var(--accent-iros-soft);
+    color: var(--accent-iros);
+}
+
+.role-chip {
+    background: var(--accent-role-soft);
+    color: var(--accent-role);
+}
+
+.status-chip {
+    background: #edf2f7;
+    color: var(--text-muted);
+}
+
+.status-chip--oral {
+    background: #e0f2fe;
+    color: #075985;
+}
+
+.status-line {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.5rem 0 0.85rem;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -106,4 +208,14 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 999px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.badge--eccv {
+    background: linear-gradient(135deg, #b93815 0%, #e85d04 100%);
+}
+
+.badge--iros {
+    background: linear-gradient(135deg, #0f766e 0%, #0ea5a3 100%);
 }

@@ -7,9 +7,11 @@
 
 # Site Settings
 title                    : "Boran Zhang"
-description              : "I am currently pursuing my undergraduate studies at Harbin Engineering University, and I am deeply fascinated by scientific research and the philosophy of world models."
+description              : "Research intern candidate in embodied AI, 3D/4D perception, and world models."
+url                      : "https://chenqingsu1.github.io"
 repository               : "Chenqingsu1/Chenqingsu1.github.io"
 google_scholar_stats_use_cdn : true
+google_scholar_stats_enabled : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,11 +25,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Boran Zhang"
   avatar           : "images/giphy.gif"
-  bio              : "Harbin Engineering University"
-  location         : "Harbin, China"
-  employer         :
+  bio              : "Algorithm Research Intern | Embodied AI, 3D/4D Perception, World Models"
+  location         : "Harbin / Beijing, China"
+  employer         : "AIR, Tsinghua University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Boran Zhang"
+  googlescholar    :
   email            : "chenqingsui1@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
