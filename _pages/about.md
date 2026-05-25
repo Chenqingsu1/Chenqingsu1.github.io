@@ -25,27 +25,11 @@ I enjoy research-driven engineering: building systems that connect perception, p
 
 # News
 
-- *2026*: Our paper <span class="paper-title-inline">One Video, One World: Turning Monocular Video into Physical 4D Scenes</span> was accepted to <span class="venue-chip venue-chip--eccv">ECCV 2026</span>. I contributed as <span class="role-chip">co-1st author</span>.
 - *2025*: Our paper <span class="paper-title-inline">Delving into Mapping Uncertainty for Mapless Trajectory Prediction</span> was selected as an <span class="venue-chip venue-chip--iros">IROS 2025 Oral</span> presentation.
 - *2024.11*: I was awarded the **National Scholarship** for outstanding academic performance and research potential.
 - *2024.07*: I received the **Second Prize** at the National Computer Design Competition.
 
 # Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--eccv">ECCV 2026</div><div class="paper-box-placeholder"><strong>OVOW</strong><span>Monocular Video to Physical 4D World</span></div></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class="paper-title-display">One Video, One World: Turning Monocular Video into Physical 4D Scenes</span>
-
-**Boran Zhang** <span class="role-chip">co-1st author</span>, et al.
-
-<span class="status-line"><span class="venue-chip venue-chip--eccv">ECCV 2026</span> <span class="status-chip">Accepted</span></span>
-
-**Paper coming soon** | **Project coming soon**
-
-- OVOW reconstructs instance-level, simulation-ready 4D mesh scenes from a single monocular video. The work connects 3D/4D perception, video understanding, physical simulation, and world modeling for embodied AI by converting visual observations into structured assets that can be used by physics engines.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--iros">IROS 2025</div><img src='images/paper1.png' alt="Mapless trajectory prediction paper preview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
