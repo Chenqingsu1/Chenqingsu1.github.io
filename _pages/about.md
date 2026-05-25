@@ -36,7 +36,7 @@ I enjoy research-driven engineering: building systems that connect perception, p
 
 <span class="paper-title-display">Delving into Mapping Uncertainty for Mapless Trajectory Prediction</span>
 
-Zongzheng Zhang\*, Xuchong Qiu\*, **Boran Zhang**, Guantian Zheng, Xunjiang Gu, Guoxuan Chi, Huan-ang Gao, Leichen Wang, Ziming Liu, Xinrun Li, Igor Gilitschenski, Hongyang Li, Hang Zhao, Hao Zhao
+**Boran Zhang**
 
 <span class="status-line"><span class="venue-chip venue-chip--iros">IROS 2025</span> <span class="status-chip status-chip--oral">Oral</span></span>
 
